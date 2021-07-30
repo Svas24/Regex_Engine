@@ -1,0 +1,9 @@
+content:
+- Tuple
+- Kwargs
+- Class
+- Class instances
+- Methods
+- Built-in exceptions
+- Exception handling
+- Unit testing in Python
